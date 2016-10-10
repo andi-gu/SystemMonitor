@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/ui_process_menu_group">
+        <item
+            android:id="@+id/ui_menu_help"
+            android:title="ss"
+            android:icon="@drawable/ic_menu_discard"
+            android:showAsAction="ifRoom"/>
+
+        <item android:id="@+id/ui_menu_setting"
+            android:title="sdd"
+            android:icon="@drawable/ic_menu_discard"
+            android:showAsAction="ifRoom"/>
+
+    </group>
+</menu>
